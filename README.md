@@ -1,16 +1,4 @@
-# embedded_weather_app
+# Weather App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture d’écran du 2024-10-08 18-58-24](https://github.com/user-attachments/assets/aff6fed0-6b15-4d65-a2cf-4b343be65f7e)
+![Capture d’écran du 2024-10-08 19-00-48](https://github.com/user-attachments/assets/e3806b83-3ab6-4105-a890-6e54703402e5)
